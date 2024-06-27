@@ -79,10 +79,4 @@ Before running the project, make sure you have the following dependencies instal
     python app.py
     ```
 
-3. **Access the Application**:
-   - Open your web browser and go to `http://127.0.0.1:5000/`.
-   - The system will automatically detect and recognize faces in the video feed.
-   - Recognized faces will be marked as present in the attendance database.
-
-## Directory Structure
-
+## Screenshots
